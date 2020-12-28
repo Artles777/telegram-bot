@@ -1,0 +1,30 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "test bot telegram",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/Artles777/telegram-bot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "node",
+    "nodejs",
+    "js",
+    "coins"
+  ],
+  "dependencies": {
+    "node-telegram-bot-api": "0.50.0",
+    "request": "2.88.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "author": "Alesenko Artem <alesenko19961996@gmail.com>",
+  "license": "ISC"
+}
